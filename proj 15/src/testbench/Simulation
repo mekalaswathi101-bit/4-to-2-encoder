@@ -1,0 +1,1 @@
+iverilog -o encoder_sim src/encoder_4to2.v testbench/encoder_4to2_tb.v
